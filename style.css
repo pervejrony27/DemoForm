@@ -1,0 +1,19 @@
+fieldset{
+    margin-right: 800px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: violet;
+}
+a{
+    background-color:aquamarine;
+    font-size: 20px;
+}
+
+div{
+    margin-left: 200px;
+}
